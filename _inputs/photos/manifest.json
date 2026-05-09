@@ -1,0 +1,47 @@
+{
+  "total": 7,
+  "photos": [
+    {
+      "filename": "fb-photo-2.jpg",
+      "source_url": "https://scontent.fymq3-1.fna.fbcdn.net/v/t39.30808-6/487218292_1165585875577359_4948765661248351669_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=2a1932&_nc_ohc=o9C0s_i4Jo0Q7kNvwHNCByz&_nc_oc=AdpAvX3w1JJfcu9nDjIIz2HYp167IKJBQYUKRkA5HBpJaZY39Hlcw9q5HvuQ5vJ42Mg&_nc_zt=23&_nc_ht=scontent.fymq3-1.fna&_nc_gid=-q6J_i7VHC72oUn1SJHxOg&_nc_ss=7b289&oh=00_Af4Femyy6FgMHwaNWchmp8rSn1xHdjZFdTbeKwXe9d78Xw&oe=6A0530D8",
+      "role": "hero",
+      "reason": "C1 OK : intérieur de la salle de musculation; C2 OK : haltères, racks et bancs bien visibles avec enseigne murale; C3 OK : net et bien éclairé; C4 OK : texte intégré au décor < 25%; C5 OK : photo authentique."
+    },
+    {
+      "filename": "fb-photo-3.jpg",
+      "source_url": "https://scontent.fymq3-1.fna.fbcdn.net/v/t39.30808-6/487218292_1165585875577359_4948765661248351669_n.jpg?stp=c341.0.1366.1366a_dst-jpg_s552x414_tt6&_nc_cat=106&ccb=1-7&_nc_sid=8f740e&_nc_ohc=o9C0s_i4Jo0Q7kNvwHNCByz&_nc_oc=AdpAvX3w1JJfcu9nDjIIz2HYp167IKJBQYUKRkA5HBpJaZY39Hlcw9q5HvuQ5vJ42Mg&_nc_zt=23&_nc_ht=scontent.fymq3-1.fna&_nc_gid=-q6J_i7VHC72oUn1SJHxOg&_nc_ss=7b289&oh=00_Af4XfoDJ8O3pNf5wUplZiDYlc2X8XhE2PoAGFghfSj4pag&oe=6A0530D8",
+      "role": "location",
+      "reason": "C1 OK : même salle de musculation angle différent; C2 OK : équipements de gym visibles; C3 OK : net; C4 OK : texte mural < 25%; C5 OK : photo authentique (logo partiellement coupé sur la droite)."
+    },
+    {
+      "filename": "fb-photo-4.jpg",
+      "source_url": "https://scontent.fymq3-1.fna.fbcdn.net/v/t39.30808-6/492043009_2242451526173958_2992884040954651875_n.jpg?stp=c301.0.1198.1198a_dst-jpg_s552x414_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c43f2c&_nc_ohc=ViSzi8Pd7pwQ7kNvwGyG3dh&_nc_oc=AdqtMSDvdpAhYQdWKCmm7Qq6M-li2QbGw_ooZSG8Ws0LNmWNi9pHH3vNFOGHbGKVgks&_nc_zt=23&_nc_ht=scontent.fymq3-1.fna&_nc_gid=-q6J_i7VHC72oUn1SJHxOg&_nc_ss=7b289&oh=00_Af7064CUEJKEzjrmx4PZXIqeRL4OSYbvosrPmp6Zi5OvnA&oe=6A0559C7",
+      "role": "equipment",
+      "reason": "C1 OK : salle cardio du gym; C2 OK : vélos stationnaires et elliptiques professionnels au premier plan; C3 OK : net; C4 OK : petite signature discrète < 25%; C5 OK : photo authentique."
+    },
+    {
+      "filename": "fb-photo-5.jpg",
+      "source_url": "https://scontent.fymq3-1.fna.fbcdn.net/v/t39.30808-6/492009222_2242451562840621_5831414665712584996_n.jpg?stp=c301.0.1198.1198a_dst-jpg_s552x414_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c43f2c&_nc_ohc=-JekaLDOaBoQ7kNvwHHHwru&_nc_oc=Adpa9NZGeCsRpeNq2Mt3g3V_yNfrAZZ3Ws2FdfT-ZBS2nrdHFNitqniqDnlMIq-0YvE&_nc_zt=23&_nc_ht=scontent.fymq3-1.fna&_nc_gid=-q6J_i7VHC72oUn1SJHxOg&_nc_ss=7b289&oh=00_Af7WhaKb5Ii5xGgSEWvVEi0tvvA_0GVjjD5u1orEG3dpKg&oe=6A0550DA",
+      "role": "gallery",
+      "reason": "C1 OK : salle de musculation; C2 OK : machines orange/grises et câbles visibles; C3 OK : net; C4 OK : petite signature discrète < 25%; C5 OK : photo authentique."
+    },
+    {
+      "filename": "fb-photo-7.jpg",
+      "source_url": "https://scontent.fyhu2-1.fna.fbcdn.net/v/t39.30808-6/476770222_1124176403051640_5325589493611995880_n.jpg?stp=c339.0.1348.1348a_dst-jpg_s552x414_tt6&_nc_cat=111&ccb=1-7&_nc_sid=4fc511&_nc_ohc=xg3RL7XrnikQ7kNvwGdH-OM&_nc_oc=AdpdR2ZRcxzor0xUCw_Nh7Lfjvo0Mn6fkOi5qJ0ohSJa304kVW1-ZZzH2EwIXBKRCks&_nc_zt=23&_nc_ht=scontent.fyhu2-1.fna&_nc_gid=-q6J_i7VHC72oUn1SJHxOg&_nc_ss=7b289&oh=00_Af5HafQK39AJsOnr7zxcHB05J5u0AiJEuYreek3WD9zodg&oe=6A054456",
+      "role": "location",
+      "reason": "C1 OK : zone d'accueil du gym avec fauteuils et aperçu de la salle en arrière-plan; C2 OK : équipements de gym visibles en arrière-plan; C3 OK : net; C4 OK : watermark et texte 'GRIS' discrets < 25%; C5 OK : photo authentique."
+    },
+    {
+      "filename": "fb-photo-8.jpg",
+      "source_url": "https://scontent.fymq2-1.fna.fbcdn.net/v/t39.30808-6/491612019_2242451572840620_7755728086050346396_n.jpg?stp=c301.0.1198.1198a_dst-jpg_s552x414_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c43f2c&_nc_ohc=Br2V4YtgSdMQ7kNvwEv_zU8&_nc_oc=AdqVfBTJE4Lt08uQu-r9M_q8WWLKaZAlXzrjVnEltvBp-313h5Dgl_HOxeUvMqckn8k&_nc_zt=23&_nc_ht=scontent.fymq2-1.fna&_nc_gid=-q6J_i7VHC72oUn1SJHxOg&_nc_ss=7b289&oh=00_Af7JPcZaGukanMIv7eUs65fPf_6u7M6WrN-xsqJdNwl_Tw&oe=6A053347",
+      "role": "gallery",
+      "reason": "C1 OK : grande salle de musculation; C2 OK : bancs orange et machines visibles; C3 OK : net et bien éclairé; C4 OK : petite signature discrète < 25%; C5 OK : photo authentique."
+    },
+    {
+      "filename": "fb-photo-11.jpg",
+      "source_url": "https://scontent.fyhu2-1.fna.fbcdn.net/v/t39.30808-6/491420350_2242451289507315_343761421223416950_n.jpg?stp=c339.0.1348.1348a_dst-jpg_s552x414_tt6&_nc_cat=107&ccb=1-7&_nc_sid=4fc511&_nc_ohc=J4yUaNlO3KsQ7kNvwE9Hlgx&_nc_oc=AdoV3xOxpM2rcHkVcX6j6_D-Ed_aCJYG2HSY4rmxDchkqHdB1ADg_l_xZtp1q8_62u8&_nc_zt=23&_nc_ht=scontent.fyhu2-1.fna&_nc_gid=-q6J_i7VHC72oUn1SJHxOg&_nc_ss=7b289&oh=00_Af4ZLuEp-JsiFppSQHj5Ng6an3o0LhPEOQVziFDGwsgMvw&oe=6A054684",
+      "role": "gallery",
+      "reason": "C1 OK : zone d'accueil; C2 OK : équipements visibles en arrière-plan; C3 OK : net; C4 OK : texte discret; C5 OK : photo authentique (visuellement identique à photo-7)."
+    }
+  ]
+}
